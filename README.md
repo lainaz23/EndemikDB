@@ -38,6 +38,9 @@ Aplikasi Android untuk menampilkan data hewan dan tumbuhan endemik Indonesia.
 ### Search
 <img width="717" height="1600" alt="search" src="https://github.com/user-attachments/assets/62d24ae4-c448-486f-b127-e61b6d794667" />
 
+### Filter Region
+<img width="717" height="1600" alt="region" src="https://github.com/user-attachments/assets/4ca9cd8c-64da-4295-a1fa-20f05a832d6b" />
+
 
 ### Dark Mode
 <img width="717" height="1600" alt="dark mode" src="https://github.com/user-attachments/assets/5822d508-abb2-42a0-98ee-796d113f3eb0" />
